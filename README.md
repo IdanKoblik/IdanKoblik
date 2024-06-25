@@ -8,7 +8,7 @@
 
 <div>
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=IdanKoblik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> <br>
-  <p align="left">🔭I'm current working in: ProjectZero network<br>📄 Know about my experiences: http://bit.ly/3vTUpnY<br>💬Ask me about: Linux, Java.<br>📫How to reach me: idankob@gmail.com</p>
+  <p align="left">🔭I'm current working in: ProjectZero network<br>📄 Know about my experiences: http://bit.ly/3vTUpnY<br>📫How to reach me: idankob@gmail.com</p>
 </div>
 
 ###
